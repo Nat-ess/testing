@@ -1,1 +1,1 @@
-script; echo random
+script: echo random
